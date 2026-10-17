@@ -78,6 +78,12 @@ Identify potential credit risks, assess their likelihood and impact, and recomme
 ### Limitation
 The assessment is based on the available dataset. The identified patterns do not prove causation or guarantee future lending outcomes.
 
+### Week 4: Hypothesis Testing
+- Formulated null and alternative hypotheses to compare average loan amounts between defaulters and non-defaulters.
+- Conducted an independent two-sample t-test assuming unequal variances (Welch’s t-test) using Microsoft Excel.
+- Compared group averages and interpreted the p-value at a 5% significance level.
+- Documented the methodology, results, limitations, and AI assistance in the project report.
+
 ## Project Files
 - `Credit_Risk_Analysis.xlsx` — Excel workbook containing data cleaning, analysis, summary tables, charts, forecasting, and risk analysis.
 - `Credit_Risk_EDA.ipynb` — Python notebook containing exploratory data analysis.
