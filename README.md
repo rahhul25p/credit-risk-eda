@@ -84,6 +84,22 @@ The assessment is based on the available dataset. The identified patterns do not
 - Compared group averages and interpreted the p-value at a 5% significance level.
 - Documented the methodology, results, limitations, and AI assistance in the project report.
 
+## Week 5: Data Visualization
+
+**Objective:** Visualize patterns in the credit risk dataset using Microsoft Excel.
+
+**Visualizations Created:**
+- Default Rate by Loan Grade
+- Average Loan Amount by Default Status
+- Default Rate by Loan Purpose
+
+**Key Findings:**
+- Default rates varied considerably across loan grades.
+- Defaulters had a higher average loan amount than non-defaulters.
+- Debt consolidation had the highest default rate among the loan purposes analyzed.
+
+**Tools Used:** Microsoft Excel
+
 ## Project Files
 - `Credit_Risk_Analysis.xlsx` — Excel workbook containing data cleaning, analysis, summary tables, charts, forecasting, and risk analysis.
 - `Credit_Risk_EDA.ipynb` — Python notebook containing exploratory data analysis.
