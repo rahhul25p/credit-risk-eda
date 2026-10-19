@@ -98,6 +98,16 @@ The assessment is based on the available dataset. The identified patterns do not
 - Defaulters had a higher average loan amount than non-defaulters.
 - Debt consolidation had the highest default rate among the loan purposes analyzed.
 
+  ## Week 6: Reporting and Presentation
+
+**Objective:** Combine the findings from Weeks 1–5 into a final credit risk analysis report.
+
+**Work Completed:**
+- Summarized the project objectives and scope.
+- Consolidated the work completed across all five weeks.
+- Presented key findings from exploratory data analysis, forecasting, risk assessment, hypothesis testing, and data visualization.
+- Added recommendations for future analysis and a final conclusion.
+
 **Tools Used:** Microsoft Excel
 
 ## Project Files
